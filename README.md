@@ -6,7 +6,7 @@
 
 - [x] Initial Commit
 - [x] CSS BROWSER RESET
-- [ ] Folder Structure
+- [x] Folder Structure
 - [ ] Utils and Env File Set Up
 - [ ] Header Component
 - [ ] Year List Component
